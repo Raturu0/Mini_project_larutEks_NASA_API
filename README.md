@@ -4,7 +4,7 @@ Mini project for my eksternal larut, get NASA API
 This repository for training results from larut eksternal, to get API from NASA
 <br>
 
-#How the Step?
+# How the Step?
 1. Visit https://api.nasa.gov/
 2. Create an account, with description column is optional
 3. Get the API_KEY in email
